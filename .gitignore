@@ -1,0 +1,52 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Logs & databases
+*.log
+*.sqlite3
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Coverage / test reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
