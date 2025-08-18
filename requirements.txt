@@ -7,3 +7,4 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 python-dotenv
+python-multipart
